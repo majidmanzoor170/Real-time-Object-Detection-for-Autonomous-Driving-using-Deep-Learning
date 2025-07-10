@@ -5,15 +5,15 @@
 **Instructors:**
 * Dr. Inam Ullah Khan
 * Mr. Bilal Ahmed
+* 
 **Institutions:**
   * [Mohi-ud-Din Islamic University Nerian Sharif]()
   * [Department of Computer Science]()
 
 **Project team (A-Z):**
-* Duy Anh Tran
-* Pascal Fischer
-* Alen Smajic
-* Yujin So
+* Majid Manzoor
+* Yasir Hanif
+* Saqib bin Hafiz
 
 ## Publications ##
  * [YouTube Video (YOLO)](https://www.youtube.com/watch?v=ANQczqZwaY4)
@@ -37,7 +37,7 @@ The goal of our project is to detect and classify traffic objects in a video in 
 
 ### Dataset ###
 
-You can download the dataset [here](https://bdd-data.berkeley.edu/)
+You can download the dataset [here]()
 
 ### Model Weights ###
 
